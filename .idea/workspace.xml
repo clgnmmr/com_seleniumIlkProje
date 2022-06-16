@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="347527d1-4a00-49e5-b175-cf86f860fee8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_cssLocators/C01_AmazonSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_cssLocators/C02_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_cssLocators/C03_CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q4_WithPageDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/practice/Q6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +44,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ToolWindowRun.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kadir/Desktop/githup projeleri/com_seleniumIlkProje/src/resources/libraries/selenium-support-4.1.3.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/18.05.2022/OneDrive/Masaüstü/githup projeleri/com_seleniumIlkProje/src/resources/libraries/selenium-support-4.2.1.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -51,20 +56,22 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\18.05.2022\OneDrive\Masaüstü\githup projeleri\com_seleniumIlkProje\src\resources\drivers" />
       <recent name="C:\Users\kadir\Desktop\projelerim\com_seleniumIlkProje\resources\libraries" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\18.05.2022\OneDrive\Masaüstü\githup projeleri\com_seleniumIlkProje\src\resources\drivers" />
       <recent name="C:\Users\kadir\Desktop\githup projeleri\com_seleniumIlkProje\src" />
       <recent name="C:\Users\kadir\Desktop\projelerim\com_seleniumIlkProje\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C02_Xpath">
-    <configuration name="C01_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_Locators.C01_Locators" />
+  <component name="RunManager" selected="Application.C02_ThreadSleep">
+    <configuration name="C01_Tekrar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C01_Tekrar" />
       <module name="com_seleniumIlkProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_Locators.*" />
+          <option name="PATTERN" value="day02_driverMethodlari.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04_xpath_cssLocators.C02_Xpath" />
+    <configuration name="C01_ilkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01_seleniumProje.C01_ilkClass" />
       <module name="com_seleniumIlkProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_xpath_cssLocators.*" />
+          <option name="PATTERN" value="day01_seleniumProje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_findElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_Locators.C02_findElements" />
+    <configuration name="C02_ThreadSleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C02_ThreadSleep" />
       <module name="com_seleniumIlkProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_Locators.*" />
+          <option name="PATTERN" value="day02_driverMethodlari.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_Locators.C03_Locators" />
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Q3" />
       <module name="com_seleniumIlkProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_Locators.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_webElementMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_Locators.C04_webElementMethodlari" />
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Q4" />
       <module name="com_seleniumIlkProje" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_Locators.*" />
+          <option name="PATTERN" value="practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02_Xpath" />
-        <item itemvalue="Application.C04_webElementMethodlari" />
-        <item itemvalue="Application.C03_Locators" />
-        <item itemvalue="Application.C02_findElements" />
-        <item itemvalue="Application.C01_Locators" />
+        <item itemvalue="Application.C02_ThreadSleep" />
+        <item itemvalue="Application.C01_ilkClass" />
+        <item itemvalue="Application.C01_Tekrar" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Q3" />
       </list>
     </recent_temporary>
   </component>

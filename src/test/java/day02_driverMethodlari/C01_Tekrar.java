@@ -11,4 +11,6 @@ public class C01_Tekrar {
         WebDriver driver =new ChromeDriver();
         driver.get("https://www.techproeducation.com");
     }
+
+
 }
